@@ -1,0 +1,133 @@
+*{
+    
+}
+
+/* -------------------------------------------ENCABEZADO---------*/
+
+.fondo{
+    background:#FFD700;
+    height: 683px;
+}
+
+.boton{
+     margin-top: 30px;
+    
+}
+
+.boton button{
+    background: #FBA85A;
+    border-color:#FBA85A;
+    border-radius: 5px;
+    width: 90px;
+    height: 40px;
+}
+
+ .boton a {
+    text-decoration: none;
+     color: white;
+}
+
+
+.menu{
+    margin-top: 30px;
+}
+
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    text-align: center;
+    color:white;
+}
+
+.fondo h1, p{
+    text-align: center;
+    margin-top: 200px;  
+    color: white;
+}
+/* ----------------------------------------INFORMACION---------*/
+
+.contenido{
+    background:#F2F3F6;
+}
+
+
+.caja1{
+    background: yellow;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.caja2{
+    background: yellow;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+}
+
+
+.box1, .txt{
+    color:black;
+    text-align: left;
+    padding: 10px;  
+}
+ 
+.box2,txt{
+     color:black;
+    text-align: left;
+    padding: 10px;  
+}
+
+.box1, .box2{
+    background: white;
+}
+.box1{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.box2{
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.btn1{
+    background: orange;
+    border: orange;
+    width: 100px;
+    height: 30px;
+}
+
+.btn1 a{
+    color: white;
+    text-decoration: none;
+}
+
+/* -------------------------------------PIE DE PAGINA---------*/
+footer{
+    background: #CAC8C8;
+    height: 90px;
+    
+}
+
+.txt1{
+    text-align: left;
+    color: black;
+    padding-top: 20px;
+    padding-left: 50px;
+}
